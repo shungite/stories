@@ -6,44 +6,14 @@
     font-style:normal;
 }
 @font-face{
-    font-family:'Caecilia eText Bold';
-    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Medium Italic';
-    src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Medium';
-    src:url('../assets/fonts/AkkoPro-Medium.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
     font-family:'DIN Next LT Pro Medium Condensed';
     src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
-    font-family:'Caecilia eText Bold Italic';
-    src:url('../assets/fonts/CaeciliaeText-BoldItalic.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Bold';
-    src:url('../assets/fonts/AkkoPro-Bold.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Caecilia eText Italic';
-    src:url('../assets/fonts/CaeciliaeText-Italic.ttf');
+    font-family:'Akko Pro Regular';
+    src:url('../assets/fonts/AkkoPro-Regular.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -60,14 +30,44 @@
     font-style:normal;
 }
 @font-face{
-    font-family:'Akko Pro Regular';
-    src:url('../assets/fonts/AkkoPro-Regular.ttf');
+    font-family:'Caecilia eText Bold';
+    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Bold';
+    src:url('../assets/fonts/AkkoPro-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Italic';
+    src:url('../assets/fonts/CaeciliaeText-Italic.ttf');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
     font-family:'Circle Frame Neg MT';
     src:url('../assets/fonts/CircleFrameNegMT.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium Italic';
+    src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium';
+    src:url('../assets/fonts/AkkoPro-Medium.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Bold Italic';
+    src:url('../assets/fonts/CaeciliaeText-BoldItalic.ttf');
     font-weight:normal;
     font-style:normal;
 }
