@@ -1,0 +1,33 @@
+{
+    "loaderView" : {
+        "fadeDuration" : 333,
+        "fadeEasing" : "easeOutSine"
+    },
+
+    "issue" : {
+        "pageMoveDuration" : 600,
+        "pageMoveEasing" : "easeOutSine",
+
+        "arrowFadeDuration" : 150,
+
+        "touch" : {
+            "pageMoveDuration" : 300
+        },
+
+        "pagelistview" : {
+            "transtionDuration" : 200
+        }
+    },
+
+    "toolbar" : {
+        "fadeDuration" : 1000,
+        "fadeEasing" : "easeOutSine",
+        "touch" : {
+            "fadeDuration" : 300
+        }
+    },
+
+    "store" : {
+
+    }
+}

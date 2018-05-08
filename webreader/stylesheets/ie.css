@@ -1,0 +1,20 @@
+.ie .ie10 .page.current > .overlay {
+  /*display:none;*/
+}
+.ie .page.current.faded {
+  display: none;
+}
+.ie #scrubber-timeline.active {
+  display: block;
+}
+.ie #scrubber-timeline.hidden {
+  display: none;
+}
+.ie .imageBlurAndFade {
+  filter: blur(add=0, direction=300, strength=50) alpha(opacity=30, finishopacity=0, style=3, startx=20, starty=40, finishx=0, finishy=0);
+  opacity: 1;
+}
+
+#ie9Frame {
+  display: none;
+}

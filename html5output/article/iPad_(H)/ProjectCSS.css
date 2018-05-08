@@ -1,0 +1,531 @@
+
+@font-face{
+    font-family:'Akko Pro Medium Italic';
+    src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Bold';
+    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText';
+    src:url('../assets/fonts/CaeciliaeText.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Regular';
+    src:url('../assets/fonts/AkkoPro-Regular.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Helvetica';
+    src:url('../assets/fonts/Helvetica.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Noteworthy Light';
+    src:url('../assets/fonts/Noteworthy-Light.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Bold Italic';
+    src:url('../assets/fonts/CaeciliaeText-BoldItalic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium Condensed';
+    src:url('../assets/fonts/AkkoPro-MediumCondensed.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Circle Frame Neg MT';
+    src:url('../assets/fonts/CircleFrameNegMT.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium';
+    src:url('../assets/fonts/AkkoPro-Medium.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Italic';
+    src:url('../assets/fonts/CaeciliaeText-Italic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Bold';
+    src:url('../assets/fonts/AkkoPro-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'DIN Next LT Pro Medium Condensed';
+    src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+
+.qxpASDImage{
+    position:absolute;
+    top:0px;
+    left:0px;
+}.char-Normal-Local-15 {
+    font-family:'Akko Pro Regular','AkkoPro-Regular','Akko Pro';
+    font-size:240px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#222021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-17 {
+    font-family:'Akko Pro Medium Condensed','AkkoPro-MediumCondensed';
+    font-size:200px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Caption-22 {
+    font-family:'Caecilia eText','CaeciliaeText';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Caption-20 {
+    font-family:'Caecilia eText Italic','CaeciliaeText-Italic','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-24 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:480px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-30 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:280px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-51 {
+    font-family:'Caecilia eText','CaeciliaeText';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-52 {
+    font-family:'Caecilia eText Bold Italic','CaeciliaeText-BoldItalic','Caecilia eText';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Heading-27 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:360px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Aside-21 {
+    font-family:'DIN Next LT Pro Medium Condensed','DINNextLTPro-MediumCond','DIN Next LT Pro';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-35 {
+    font-family:'Caecilia eText Italic','CaeciliaeText-Italic','Caecilia eText';
+    font-size:200px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-36 {
+    font-family:'Caecilia eText','CaeciliaeText';
+    font-size:200px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-39 {
+    font-family:'Caecilia eText','CaeciliaeText';
+    font-size:200px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#F25856;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-19 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:320px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-16 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:320px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Aside-8 {
+    font-family:'Akko Pro Medium Italic','AkkoPro-MediumItalic','Akko Pro';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-10 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:480px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#DACAE1;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-42 {
+    font-family:'Caecilia eText Italic','CaeciliaeText-Italic','Caecilia eText';
+    font-size:160px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-25 {
+    font-family:'Caecilia eText Bold','CaeciliaeText-Bold','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#FF7D58;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Heading-5 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:360px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-43 {
+    font-family:'Caecilia eText Bold','CaeciliaeText-Bold','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-45 {
+    font-family:'Caecilia eText Bold','CaeciliaeText-Bold','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Quotedletter-49 {
+    font-family:'Caecilia eText Bold Italic','CaeciliaeText-BoldItalic','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Quotedletter-46 {
+    font-family:'Caecilia eText Italic','CaeciliaeText-Italic','Caecilia eText';
+    font-size:280px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-44 {
+    font-family:'Circle Frame Neg MT','CircleFrameNegMT';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#9EB6C5;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Aside-57 {
+    font-family:'Akko Pro Medium','AkkoPro-Medium','Akko Pro';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal {
+    font-family:'Helvetica','Arial','sans-serif';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#222021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-60 {
+    font-family:'Noteworthy-Light','Noteworthy Light','Noteworthy';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.QxpSVG {
+    position:inherit;
+}
+.QxpImage {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.QxpSuperscript {
+    line-height:1;
+    font-size:0.6em;
+    vertical-align:baseline;
+}
+.QxpSubscript {
+    line-height:1;
+    font-size:1em;
+    vertical-align:baseline;
+}
+.QxpTextBox {
+    position:absolute;
+    left:0px;
+    top:0px;
+    white-space:nowrap;
+    width:100%;
+    height:100%;
+    line-height:1;
+    transform-origin:0% 0%;
+    -webkit-transform-origin:0% 0%;
+    transform:scale(0.05, 0.05);
+    -webkit-transform:scale(0.05, 0.05);
+}
+.QxpVertTextBox {
+    position:absolute;
+    white-space:nowrap;
+    width:100%;
+    height:100%;
+    top:0px;
+    right:0px;
+    line-height:1;
+    transform-origin:100% 0%;
+    -webkit-transform-origin:100% 0%;
+    transform:scale(0.05, 0.05);
+    -webkit-transform:scale(0.05, 0.05);
+}

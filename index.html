@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" href="webreader/stylesheets/app.css" />
+        <link rel="stylesheet" href="webreader/stylesheets/touch.css" />
+        <link rel="stylesheet" href="webreader/video-player/mediaelementplayer.css" />
+
+        <link rel="icon" type="image/x-icon" id="dynamic-favicon" href="webreader/images/spinner.gif">
+        <script src="webreader/vendor/l10n/l10n.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="webreader/locale/localizations.js"></script>
+
+        <script src="webreader/vendor/yepnope/yepnope.1.5.4-min.js" type="text/javascript"></script>
+        <script src="webreader/vendor/modernizr/modernizr.js" type="text/javascript"></script>
+
+
+        <!-- iOS -->
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <link rel='apple-touch-icon' href='webreader/images/apple-touch-icon.png'/>
+
+        <!-- Windows 8 -->
+        <meta name="msapplication-TileColor" content="#1f3f80"/>
+        <meta name="msapplication-TileImage"
+              content="webreader/images/apple-touch-icon-144x144.png"/>
+
+    </head>
+
+    <body>
+
+        <!-- Templates will be inserted here -->
+        <script src="webreader/scripts/templates.js" type="text/javascript"></script>
+
+        <!-- Main JS entry point -->
+        <script src="webreader/scripts/bootstrap.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            AS.bootstrap.run({
+                desktop : [
+                    
+                    
+                ],
+                mobile  : [
+                    
+                    
+                ],
+                scripts : [
+                    'webreader/scripts/index.js'
+                ],
+                complete: function() {
+                    AS.config({ gitcommit:"7986cadc2d861d73dcf68aa5a278407b991428a1", buildTime:"2017-09-29T14:03:22", branch:"master" });
+AS.config({ version:'1.11.2', buildNumber:'42' });
+                }
+            });
+        </script>
+
+        <!-- External Libraries inserted here - these require document.write which is not supported by yepnope -->
+        
+
+    </body>
+
+</html>
