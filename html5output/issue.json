@@ -16,7 +16,7 @@
    ],
    "id" : "urn:uuid:quark:html5:WUChistory:publication",
    "media" : null,
-   "publishedDate" : "2018-05-09T08:01:49Z",
+   "publishedDate" : "2018-05-09T08:30:43Z",
    "subtitle" : null,
    "title" : "Stories of Westminster United Church & Its People",
    "variants" : [
@@ -3512,22 +3512,6 @@
                },
                "thumbnail" : "article/iPad_(H)/assets/landscape218_preview.jpeg",
                "url" : "article/iPad_(H)/landscape218.html"
-            },
-            {
-               "contents" : [
-                  {
-                     "href" : "#WUChistory",
-                     "pageRef" : "219"
-                  }
-               ],
-               "id" : "219",
-               "preview1024" : "article/iPad_(H)/assets/landscape219_preview.jpeg",
-               "properties" : {
-                  "height" : "768",
-                  "width" : "1024"
-               },
-               "thumbnail" : "article/iPad_(H)/assets/landscape219_preview.jpeg",
-               "url" : "article/iPad_(H)/landscape219.html"
             }
          ],
          "width" : "1024"
