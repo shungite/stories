@@ -9,7 +9,7 @@
          "description" : "",
          "id" : "urn:uuid:quark:html5:WUChistory:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2018-05-10T16:31:49Z",
+         "lastPublishedDate" : "2018-05-11T10:20:39Z",
          "media:content" : [ "", "" ],
          "media:thumbnail" : [ "" ],
          "minimumAppVersion" : "1.0.0",
@@ -22,7 +22,7 @@
             "pt_384" : "",
             "pt_768" : ""
          },
-         "publishedDate" : "2018-05-10T16:31:49Z",
+         "publishedDate" : "2018-05-11T10:20:39Z",
          "subtitle" : "",
          "tabletIssuePath" : "",
          "thumbnails" : {
@@ -46,6 +46,6 @@
       }
    ],
    "name" : "user",
-   "published" : "2018-05-10T16:31:49Z",
+   "published" : "2018-05-11T10:20:39Z",
    "version" : "0.5"
 }
