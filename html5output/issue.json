@@ -16,7 +16,7 @@
    ],
    "id" : "urn:uuid:quark:html5:WUChistory:publication",
    "media" : null,
-   "publishedDate" : "2018-05-11T10:20:39Z",
+   "publishedDate" : "2018-05-12T09:18:20Z",
    "subtitle" : null,
    "title" : "Stories of Westminster United Church & Its People",
    "variants" : [
@@ -3512,6 +3512,342 @@
                },
                "thumbnail" : "article/iPad_(H)/assets/landscape218_preview.jpeg",
                "url" : "article/iPad_(H)/landscape218.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "219"
+                  }
+               ],
+               "id" : "219",
+               "preview1024" : "article/iPad_(H)/assets/landscape219_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape219_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape219.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "220"
+                  }
+               ],
+               "id" : "220",
+               "preview1024" : "article/iPad_(H)/assets/landscape220_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape220_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape220.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "221"
+                  }
+               ],
+               "id" : "221",
+               "preview1024" : "article/iPad_(H)/assets/landscape221_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape221_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape221.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "222"
+                  }
+               ],
+               "id" : "222",
+               "preview1024" : "article/iPad_(H)/assets/landscape222_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape222_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape222.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "223"
+                  }
+               ],
+               "id" : "223",
+               "preview1024" : "article/iPad_(H)/assets/landscape223_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape223_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape223.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "224"
+                  }
+               ],
+               "id" : "224",
+               "preview1024" : "article/iPad_(H)/assets/landscape224_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape224_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape224.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "225"
+                  }
+               ],
+               "id" : "225",
+               "preview1024" : "article/iPad_(H)/assets/landscape225_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape225_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape225.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "226"
+                  }
+               ],
+               "id" : "226",
+               "preview1024" : "article/iPad_(H)/assets/landscape226_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape226_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape226.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "227"
+                  }
+               ],
+               "id" : "227",
+               "preview1024" : "article/iPad_(H)/assets/landscape227_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape227_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape227.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "228"
+                  }
+               ],
+               "id" : "228",
+               "preview1024" : "article/iPad_(H)/assets/landscape228_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape228_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape228.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "229"
+                  }
+               ],
+               "id" : "229",
+               "preview1024" : "article/iPad_(H)/assets/landscape229_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape229_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape229.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "230"
+                  }
+               ],
+               "id" : "230",
+               "preview1024" : "article/iPad_(H)/assets/landscape230_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape230_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape230.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "231"
+                  }
+               ],
+               "id" : "231",
+               "preview1024" : "article/iPad_(H)/assets/landscape231_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape231_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape231.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "232"
+                  }
+               ],
+               "id" : "232",
+               "preview1024" : "article/iPad_(H)/assets/landscape232_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape232_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape232.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "233"
+                  }
+               ],
+               "id" : "233",
+               "preview1024" : "article/iPad_(H)/assets/landscape233_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape233_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape233.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "234"
+                  }
+               ],
+               "id" : "234",
+               "preview1024" : "article/iPad_(H)/assets/landscape234_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape234_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape234.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "235"
+                  }
+               ],
+               "id" : "235",
+               "preview1024" : "article/iPad_(H)/assets/landscape235_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape235_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape235.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "236"
+                  }
+               ],
+               "id" : "236",
+               "preview1024" : "article/iPad_(H)/assets/landscape236_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape236_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape236.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "237"
+                  }
+               ],
+               "id" : "237",
+               "preview1024" : "article/iPad_(H)/assets/landscape237_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape237_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape237.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "238"
+                  }
+               ],
+               "id" : "238",
+               "preview1024" : "article/iPad_(H)/assets/landscape238_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape238_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape238.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#WUChistory",
+                     "pageRef" : "239"
+                  }
+               ],
+               "id" : "239",
+               "preview1024" : "article/iPad_(H)/assets/landscape239_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/iPad_(H)/assets/landscape239_preview.jpeg",
+               "url" : "article/iPad_(H)/landscape239.html"
             }
          ],
          "width" : "1024"

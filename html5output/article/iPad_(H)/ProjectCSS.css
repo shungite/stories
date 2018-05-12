@@ -1,7 +1,25 @@
 
 @font-face{
-    font-family:'Akko Pro Bold';
-    src:url('../assets/fonts/AkkoPro-Bold.ttf');
+    font-family:'Akko Pro Regular';
+    src:url('../assets/fonts/AkkoPro-Regular.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'DIN Next LT Pro Medium Condensed';
+    src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium';
+    src:url('../assets/fonts/AkkoPro-Medium.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'ZapfEssentials LT Arrows One';
+    src:url('../assets/fonts/ZapfEssentialsLT-ArrowsOne.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -12,26 +30,26 @@
     font-style:normal;
 }
 @font-face{
-    font-family:'Caecilia eText Bold';
-    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
     font-family:'Akko Pro Medium Italic';
     src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
-    font-family:'Akko Pro Regular';
-    src:url('../assets/fonts/AkkoPro-Regular.ttf');
+    font-family:'Caecilia eText Bold';
+    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
     font-family:'Circle Frame Neg MT';
     src:url('../assets/fonts/CircleFrameNegMT.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Helvetica';
+    src:url('../assets/fonts/Helvetica.ttc');
     font-weight:normal;
     font-style:normal;
 }
@@ -54,20 +72,14 @@
     font-style:normal;
 }
 @font-face{
-    font-family:'Akko Pro Medium';
-    src:url('../assets/fonts/AkkoPro-Medium.ttf');
+    font-family:'Akko Pro Bold';
+    src:url('../assets/fonts/AkkoPro-Bold.ttf');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
     font-family:'Akko Pro Medium Condensed';
     src:url('../assets/fonts/AkkoPro-MediumCondensed.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'DIN Next LT Pro Medium Condensed';
-    src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -87,6 +99,49 @@
     font-feature-settings: "liga" 0;
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:#222021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-69 {
+    font-family:'ZapfEssentials LT Arrows One','ZapfEssentialsLT-ArrowsOne','ZapfEssentials LT ArrowsOne';
+    font-size:360px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#D6C4DE;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-68 {
+    font-family:'Akko Pro Medium Condensed','AkkoPro-MediumCondensed';
+    font-size:360px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Regulartext-24 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:480px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
     position:absolute;
     left:0px;
     top:0px;
@@ -130,21 +185,6 @@
     font-feature-settings: "liga" 0;
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:#454444;
-    position:absolute;
-    left:0px;
-    top:0px;
-}
-.char-of-Regulartext-24 {
-    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
-    font-size:480px;
-    text-decoration:none;
-    text-transform:uppercase;
-    font-kerning:Normal;
-    -webkit-font-kerning:Normal;
-    -webkit-font-feature-settings: "liga" 0;
-    font-feature-settings: "liga" 0;
-    -webkit-font-variant-ligatures:no-common-ligatures;
-    color:white;
     position:absolute;
     left:0px;
     top:0px;
@@ -475,6 +515,36 @@
     font-feature-settings: "liga" 0;
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal {
+    font-family:'Helvetica','Arial','sans-serif';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#222021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-of-Heading-79 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:360px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#8BA9BA;
+    letter-spacing:-0.1em;
     position:absolute;
     left:0px;
     top:0px;
