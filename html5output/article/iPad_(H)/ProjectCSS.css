@@ -1,23 +1,5 @@
 
 @font-face{
-    font-family:'Akko Pro Medium Condensed';
-    src:url('../assets/fonts/AkkoPro-MediumCondensed.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Caecilia eText Bold';
-    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Circle Frame Neg MT';
-    src:url('../assets/fonts/CircleFrameNegMT.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
     font-family:'Noteworthy Light';
     src:url('../assets/fonts/Noteworthy-Light.ttc');
     font-weight:normal;
@@ -30,50 +12,8 @@
     font-style:normal;
 }
 @font-face{
-    font-family:'Akko Pro Medium Italic';
-    src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Caecilia eText Bold Italic';
-    src:url('../assets/fonts/CaeciliaeText-BoldItalic.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'ZapfEssentials LT Arrows One';
-    src:url('../assets/fonts/ZapfEssentialsLT-ArrowsOne.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'DIN Next LT Pro Medium Condensed';
-    src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Bold';
-    src:url('../assets/fonts/AkkoPro-Bold.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Condensed';
-    src:url('../assets/fonts/AkkoPro-Condensed.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Akko Pro Medium';
-    src:url('../assets/fonts/AkkoPro-Medium.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Caecilia eText Italic';
-    src:url('../assets/fonts/CaeciliaeText-Italic.ttf');
+    font-family:'Akko Pro Medium Condensed';
+    src:url('../assets/fonts/AkkoPro-MediumCondensed.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -84,8 +24,68 @@
     font-style:normal;
 }
 @font-face{
+    font-family:'Akko Pro Medium';
+    src:url('../assets/fonts/AkkoPro-Medium.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'DIN Next LT Pro Medium Condensed';
+    src:url('../assets/fonts/DINNextLTPro-MediumCond.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Condensed';
+    src:url('../assets/fonts/AkkoPro-Condensed.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Bold';
+    src:url('../assets/fonts/CaeciliaeText-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Italic';
+    src:url('../assets/fonts/CaeciliaeText-Italic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'ZapfEssentials LT Arrows One';
+    src:url('../assets/fonts/ZapfEssentialsLT-ArrowsOne.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
     font-family:'Akko Pro Regular';
     src:url('../assets/fonts/AkkoPro-Regular.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Caecilia eText Bold Italic';
+    src:url('../assets/fonts/CaeciliaeText-BoldItalic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Circle Frame Neg MT';
+    src:url('../assets/fonts/CircleFrameNegMT.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Medium Italic';
+    src:url('../assets/fonts/AkkoPro-MediumItalic.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Akko Pro Bold';
+    src:url('../assets/fonts/AkkoPro-Bold.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -536,6 +536,25 @@
     font-feature-settings: "liga" 0;
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:#454444;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-75 {
+    font-family:'Akko Pro Bold','AkkoPro-Bold','Akko Pro';
+    font-size:279.124px;
+    text-decoration:none;
+    text-transform:uppercase;
+    transform-origin:left;
+    -webkit-transform-origin:left;
+    transform:scaleX(1);
+    -webkit-transform:scaleX(1);
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#DACAE1;
     position:absolute;
     left:0px;
     top:0px;
