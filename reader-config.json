@@ -66,7 +66,7 @@
    "pageNavigation" : {
       "showArrowsForDesktop" : true,
       "showArrowsForMobile" : false,
-      "transition" : "slide"
+      "transition" : "none"
    },
    "publication" : {
       "title" : "Stories of Westminster United Church & Its People"
