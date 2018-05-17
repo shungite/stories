@@ -1,51 +1,27 @@
 {
    "appconfig" : {},
-   "duration" : "5",
+   "duration" : "10",
    "issues" : [
       {
          "appleId" : "",
-         "bundle" : "html5output/",
+         "bundle" : "20180517T080740Z",
          "bundleSize" : 1,
-         "description" : "",
+         "description" : "Html5",
          "id" : "urn:uuid:quark:html5:WUChistory:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2018-05-16T11:34:56Z",
-         "media:content" : [ "", "" ],
-         "media:thumbnail" : [ "" ],
+         "lastPublishedDate" : "2018-05-17T08:08:24Z",
+         "media:content" : [],
+         "media:thumbnail" : [],
          "minimumAppVersion" : "1.0.0",
-         "previews" : {
-            "landscape" : "",
-            "ln_1024" : "",
-            "ln_512" : "",
-            "portrait" : "",
-            "pt_320" : "",
-            "pt_384" : "",
-            "pt_768" : ""
-         },
-         "publishedDate" : "2018-05-16T11:34:56Z",
-         "subtitle" : "",
-         "tabletIssuePath" : "",
-         "thumbnails" : {
-            "landscape" : "",
-            "ln_1292" : "",
-            "ln_225" : "",
-            "ln_310" : "",
-            "ln_450" : "",
-            "ln_620" : "",
-            "ln_646" : "",
-            "portrait" : "",
-            "pt_168" : "",
-            "pt_228" : "",
-            "pt_266" : "",
-            "pt_336" : "",
-            "pt_456" : "",
-            "pt_477" : "",
-            "pt_954" : ""
-         },
+         "previews" : {},
+         "publishedDate" : "2018-05-17T08:08:24Z",
+         "subtitle" : "Html5",
+         "tabletIssuePath" : "Html5",
+         "thumbnails" : {},
          "title" : "Stories of Westminster United Church & Its People"
       }
    ],
-   "name" : "user",
-   "published" : "2018-05-16T11:34:56Z",
-   "version" : "0.5"
+   "name" : "Web Reader",
+   "published" : "2018-05-17T08:08:24Z",
+   "version" : "1.0"
 }

@@ -1,79 +1,91 @@
 {
    "analytics" : {},
    "app" : {
-      "auth" : {
-         "authProxy" : "http://clientapi.appstudio.net/ie9login/iframe-code.html",
-         "authRoot" : "http://clientapi.appstudio.net/quarkauth",
-         "authToken" : "ASauth",
-         "launchLogin" : false,
-         "level" : "issue",
-         "publicationCode" : ""
-      },
-      "banner" : {
-         "enabled" : false,
-         "height" : 250,
-         "source" : "user-content/banner.zip"
-      },
+      "configFilename" : "application-config.webreader.json",
       "enableCookies" : true,
       "enableExternal" : true,
-      "enablePromoted" : true,
       "loading" : {
          "backgroundColor" : "#FFFFFF",
          "color" : "#000000",
          "image" : "Loading180.jpg"
       },
       "mobileOnly" : false,
-      "params" : {
-         "loglevel" : -1
-      },
-      "title" : "Stories of Westminster United Church & Its People"
-   },
-   "extensions" : {
-      "all" : [ "webreader/ext/googlemaps.js" ],
-      "auth" : {
-         "googlemaps" : {
-            "key" : ""
-         }
-      },
-      "desktop" : [],
-      "mobile" : []
-   },
-   "features" : {
-      "fullScreen" : true,
-      "globalAudioPlayer" : false,
-      "pageFitButton" : true,
-      "pageNavigation" : true,
-      "scrubber" : true,
-      "socialSharing" : true,
-      "spreadToggleButton" : true,
-      "storeAccessibility" : false,
-      "tableOfContents" : false,
-      "toolbar" : true,
-      "variantSwitching" : true
-   },
-   "filmStrip" : {
-      "mouseHoverNavigation" : false
-   },
-   "pageFitView" : {
-      "defaultMode" : "autofit",
-      "maxScaleForAutoFit" : 4
-   },
-   "pageNavigation" : {
-      "showArrowsForDesktop" : true,
-      "showArrowsForMobile" : false
-   },
-   "publication" : {
-      "configFilename" : "application-config.webreader.json",
       "orientation" : {
          "desktop" : "both",
          "mobile" : "both"
+      },
+      "params" : {
+         "loglevel" : -1
       },
       "summary" : "Pub description/summary goes here",
       "title" : "Stories of Westminster United Church & Its People",
       "urlRoot" : "./"
    },
+   "auth" : {
+      "authProxy" : "http://clientapi.appstudio.net/ie9login/iframe-code.html",
+      "authRoot" : "http://clientapi.appstudio.net/quarkauth",
+      "authToken" : "ASauth",
+      "launchLogin" : false,
+      "level" : "issue",
+      "loginLabel" : "signin",
+      "publicationCode" : "",
+      "subscribeLabel" : "subscribe"
+   },
+   "banner" : {
+      "height" : 250,
+      "source" : "user-content/banner.zip"
+   },
+   "features" : {
+      "analytics" : false,
+      "authorization" : true,
+      "banner" : true,
+      "fullScreen" : true,
+      "globalAudioPlayer" : false,
+      "pageFit" : true,
+      "pageNavigation" : true,
+      "scrubber" : true,
+      "sharing" : true,
+      "smartBanner" : true,
+      "spreadView" : true,
+      "storeAccessibility" : false,
+      "toc" : true,
+      "toolbar" : true,
+      "variantSwitching" : true
+   },
+   "filmStrip" : {
+      "mouseHoverNavigation" : false,
+      "showInitially" : false
+   },
+   "googlemaps" : {
+      "key" : ""
+   },
+   "pageFit" : {
+      "defaultMode" : "autoFit",
+      "maxScaleForAutoFit" : 4
+   },
+   "pageNavigation" : {
+      "showArrowsForDesktop" : true,
+      "showArrowsForMobile" : false,
+      "transition" : "slide"
+   },
+   "publication" : {
+      "title" : "Stories of Westminster United Church & Its People"
+   },
    "scrubber" : {
       "filmStrip" : true
+   },
+   "sharing" : {
+      "facebook" : {
+         "AppID" : "",
+         "caption" : "",
+         "description" : ""
+      },
+      "options" : {
+         "emailShare" : true,
+         "facebookShare" : false,
+         "linkedinShare" : true,
+         "twitterShare" : true
+      }
    },
    "smartBanner" : {
       "android" : {
@@ -85,34 +97,33 @@
          "id" : "com.quark.appstudioissuepreviewer"
       }
    },
-   "socialSharing" : {
-      "facebook" : {
-         "AppID" : "",
-         "caption" : "locale:facebook-sharing",
-         "description" : ""
-      },
-      "options" : {
-         "emailShare" : true,
-         "facebookShare" : false,
-         "linkedinShare" : true,
-         "twitterShare" : true
-      }
-   },
    "spreadView" : {
       "showLandscapeFacing" : {
+         "desktop" : true,
          "mobile" : false
       }
    },
-   "toc" : {
-      "descriptionLines" : 2,
-      "showDescription" : true,
-      "showHTMLTitle" : true,
-      "showImage" : false,
-      "titleLines" : 4,
-      "tocBanner" : true
+   "store" : {
+      "enablePromoted" : true
    },
-   "type" : {
-      "login" : "signin",
-      "subscribe" : "subscribe"
+   "toc" : {
+      "banner" : false,
+      "tocNonHtml" : {
+         "descriptionLines" : 2,
+         "showDescription" : true,
+         "showHTMLTitle" : false,
+         "showImage" : false,
+         "titleLines" : 4
+      }
+   },
+   "toolbar" : {
+      "items" : [
+         "scrubberBar",
+         "pageFitButton",
+         "spreadViewButton",
+         "sharingButton",
+         "fullScreenButton"
+      ],
+      "visibility" : "auto"
    }
 }
