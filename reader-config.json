@@ -2,34 +2,36 @@
    "analytics" : {},
    "app" : {
       "configFilename" : "application-config.webreader.json",
-      "enableCookies" : true,
-      "enableExternal" : true,
       "loading" : {
          "backgroundColor" : "#FFFFFF",
          "color" : "#000000",
          "image" : "Loading180.jpg"
       },
-      "mobileOnly" : false,
       "orientation" : {
          "desktop" : "both",
          "mobile" : "both"
       },
-      "params" : {
-         "loglevel" : -1
+      "privacy" : {
+         "cookieAcceptButtonText" : "",
+         "cookieBannerMessage" : "",
+         "cookieSource" : "",
+         "cookieUrlButtonText" : "",
+         "enableCookieBanner" : false
       },
       "summary" : "Pub description/summary goes here",
       "title" : "Stories of Westminster United Church & Its People",
       "urlRoot" : "./"
    },
    "auth" : {
-      "authProxy" : "http://clientapi.appstudio.net/ie9login/iframe-code.html",
-      "authRoot" : "http://clientapi.appstudio.net/quarkauth",
+      "authRoot" : "",
       "authToken" : "ASauth",
       "launchLogin" : false,
-      "level" : "issue",
+      "level" : "none",
       "loginLabel" : "signin",
+      "passwordRequestUrl" : "",
       "publicationCode" : "",
-      "subscribeLabel" : "subscribe"
+      "subscribeLabel" : "subscribe",
+      "subscribeUrl" : ""
    },
    "banner" : {
       "height" : 250,
@@ -38,7 +40,7 @@
    "features" : {
       "analytics" : false,
       "authorization" : true,
-      "banner" : true,
+      "banner" : false,
       "fullScreen" : true,
       "globalAudioPlayer" : false,
       "pageFit" : true,
@@ -76,9 +78,7 @@
    },
    "sharing" : {
       "facebook" : {
-         "AppID" : "",
-         "caption" : "",
-         "description" : ""
+         "AppID" : ""
       },
       "options" : {
          "emailShare" : true,
@@ -108,6 +108,7 @@
    },
    "toc" : {
       "banner" : false,
+      "showInitially" : false,
       "tocNonHtml" : {
          "descriptionLines" : 2,
          "showDescription" : true,
