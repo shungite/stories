@@ -7,7 +7,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var qasCache = "QAS-20181210T182500Z";
+var qasCache = "QAS-20181210T192539Z";
 var precacheConfig = [["index.html","4df8cd830344248996fec30cc5bb3358"],["inline.ab3ffb21ee86e1b79948.bundle.js","cc48ceb86cf241fbc1ed6e493ab2fc6f"],["main.303382eb9635ebe26552.bundle.js","97526a38322849c735f1be84eece473a"],["polyfills.dcc2b5759a27b3b47dbf.bundle.js","d2bdcdf87875dc67956323a31f70fbe3"],["scripts.37c679c0de4c41b8bb17.bundle.js","765d1ea887fa3a4e2dedd5c1423595d7"],["styles.a2b6264eca008ce93278.bundle.css","a2b6264eca008ce93278b7e124aad11c"],["vendor.18246cf07fb9e084c02a.bundle.js","384ec6bd1d446db1e5d1e123b262cbbe"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
@@ -304,8 +304,8 @@ self.addEventListener('fetch', function(event) {
 // Runtime cache configuration, using the sw-toolbox library.
 
 toolbox.router.get(/.google-analytics.com.*(collect)/, toolbox.networkOnly, {});
-toolbox.router.get(/.json/, toolbox.networkFirst, {"cache":{"maxEntries":1000,"name":"QAS-20181210T182500Z"}});
-toolbox.router.get(/^((?!.json).)/, toolbox.cacheFirst, {"cache":{"maxEntries":1000,"name":"QAS-20181210T182500Z"}});
+toolbox.router.get(/.json/, toolbox.networkFirst, {"cache":{"maxEntries":1000,"name":"QAS-20181210T192539Z"}});
+toolbox.router.get(/^((?!.json).)/, toolbox.cacheFirst, {"cache":{"maxEntries":1000,"name":"QAS-20181210T192539Z"}});
 
 
 
